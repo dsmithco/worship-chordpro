@@ -1,0 +1,39 @@
+{title: Silent Night}
+{lyricist: Joseph Mohr}
+{translator: John F. Young}
+{composer: Franz X. Gruber}
+{year: 1818}
+{meta: translation-year 1859}
+{key: C}
+{time: 6/8}
+{meta: tune STILLE NACHT}
+{meta: variation The carol, sung to STILLE NACHT}
+{meta: license public-domain}
+{meta: tags Christmas}
+
+{start_of_verse: Verse 1}
+[C]Silent night, holy night,
+[G]All is calm, [C]all is bright
+[F]Round yon virgin [C]mother and child.
+[F]Holy infant so [C]tender and mild,
+[G]Sleep in heavenly [C]peace,
+[C]Sleep in [G]heavenly [C]peace.
+{end_of_verse}
+
+{start_of_verse: Verse 2}
+[C]Silent night, holy night,
+[G]Shepherds quake [C]at the sight;
+[F]Glories stream from [C]heaven afar,
+[F]Heavenly hosts sing [C]Alleluia!
+[G]Christ the Savior is [C]born,
+[C]Christ the [G]Savior is [C]born!
+{end_of_verse}
+
+{start_of_verse: Verse 3}
+[C]Silent night, holy night,
+[G]Son of God, [C]love's pure light;
+[F]Radiant beams from [C]Thy holy face
+[F]With the dawn of re[C]deeming grace,
+[G]Jesus, Lord, at Thy [C]birth,
+[C]Jesus, [G]Lord, at Thy [C]birth.
+{end_of_verse}
